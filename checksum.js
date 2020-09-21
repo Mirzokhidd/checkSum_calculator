@@ -6,4 +6,4 @@ var checkSum = function(value) {
     return "Checksum: " + solution;
 };
 
-console.log(checkSum(#value));
+console.log(checkSum(insertNumberHere));
